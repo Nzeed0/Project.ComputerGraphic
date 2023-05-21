@@ -3,7 +3,7 @@ import java.awt.image.*;
 import java.util.*;
 import javax.swing.*;
 
-class Assignment1_62050188_62050198 extends JPanel{
+class Assignment1_CG extends JPanel{
     public static Image image ;
 
     public static void main(String[] args){
